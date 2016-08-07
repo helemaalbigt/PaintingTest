@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: d329a99db8cfc684ebcc7414b048a09f
+timeCreated: 1470602349
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f0000002000000021000000220000002300000024000000250000002600000027000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 7085d7f696fbb8ee4d9ee4409badb8c1
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.437188, y: 1.084138, z: 0.4788603}
+      lookAt: {x: -30.173922, y: -12.317562, z: 2.036853}
+      up: {x: -0.37930617, y: 0.92509377, z: 0.018121319}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 1
+    100002: Group 10
+    100004: Group 12
+    100006: Group 14
+    100008: Group 16
+    100010: Group 18
+    100012: Group 20
+    100014: Group 22
+    100016: Group 24
+    100018: Group 26
+    100020: Group 28
+    100022: Group 30
+    100024: Group 32
+    100026: Group 34
+    100028: Group 36
+    100030: Group 38
+    100032: Group 5
+    100034: Group 7
+    100036: Group 8
+    100038: //RootNode
+    100040: skpF181
+    100042: Sphere#1
+    400000: Group 1
+    400002: Group 10
+    400004: Group 12
+    400006: Group 14
+    400008: Group 16
+    400010: Group 18
+    400012: Group 20
+    400014: Group 22
+    400016: Group 24
+    400018: Group 26
+    400020: Group 28
+    400022: Group 30
+    400024: Group 32
+    400026: Group 34
+    400028: Group 36
+    400030: Group 38
+    400032: Group 5
+    400034: Group 7
+    400036: Group 8
+    400038: //RootNode
+    400040: skpF181
+    400042: Sphere#1
+    2300000: Group 1
+    2300002: Group 10
+    2300004: Group 12
+    2300006: Group 14
+    2300008: Group 16
+    2300010: Group 18
+    2300012: Group 20
+    2300014: Group 22
+    2300016: Group 24
+    2300018: Group 26
+    2300020: Group 28
+    2300022: Group 30
+    2300024: Group 32
+    2300026: Group 34
+    2300028: Group 36
+    2300030: Group 38
+    2300032: Group 5
+    2300034: Group 8
+    3300000: Group 1
+    3300002: Group 10
+    3300004: Group 12
+    3300006: Group 14
+    3300008: Group 16
+    3300010: Group 18
+    3300012: Group 20
+    3300014: Group 22
+    3300016: Group 24
+    3300018: Group 26
+    3300020: Group 28
+    3300022: Group 30
+    3300024: Group 32
+    3300026: Group 34
+    3300028: Group 36
+    3300030: Group 38
+    3300032: Group 5
+    3300034: Group 8
+    4300000: Mesh Group 1
+    4300002: Mesh Group 5
+    4300004: Mesh Group 8
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
